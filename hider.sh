@@ -1,5 +1,5 @@
 #!/bin/sh
-# hides or shows hidden files in the Finder in OSX
+# Hides or shows hidden files in the Finder in OSX
 
 TOGGLE=$HOME/.showfilez
 
