@@ -4,14 +4,14 @@ I wrote it because Command+Shift+Period appears to no longer work in Mavericks.
 
 For best results:
 
-1.  Copy into bin folder in your $PATH, e.g., /usr/local/bin/
-2.  Make file executable:  chmod +x hider
+1.  Copy file "showhide" into bin folder in your $PATH, e.g., /usr/local/bin/
+2.  Make file executable:  chmod +x showhide
 
-From the command line, type: hider
+From the command line, type: showhide
 
-Alternatively, it can be run from any folder it exists in by typing: ./hider
+Alternatively, it can be run from any folder it exists in by typing: ./showhide
 
-Hider will show files if they are hidden and hide them if they are showing.
+Showhide will show files if they are hidden and hide them if they are showing.
 
 Enjoy!
 
