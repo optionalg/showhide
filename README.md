@@ -13,3 +13,7 @@ Alternatively, can be run as-is from any folder by typing: ./hider.sh
 Hider will show files if they are hidden and hide them if they are showing.
 
 Enjoy!
+
+
+
+\* I wrote this because Command+Shift+Period no longer works in Mavericks
