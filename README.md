@@ -1,4 +1,4 @@
-Simple script to toggle hidden files in the Finder in Mac OSX
+Simple script to toggle hidden files in the Finder in Mac OSX.  I wrote this because Command+Shift+Period no longer works in Mavericks.
 
 For best results:
 
@@ -14,6 +14,3 @@ Hider will show files if they are hidden and hide them if they are showing.
 
 Enjoy!
 
-
-
-\* I wrote this because Command+Shift+Period no longer works in Mavericks
