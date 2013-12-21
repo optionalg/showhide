@@ -8,6 +8,8 @@ For best results:
 
 From the command line, type: hider
 
+Alternatively, can be run as-is from any folder by typing: ./hider.sh
+
 Hider will show files if they are hidden and hide them if they are showing.
 
 Enjoy!
