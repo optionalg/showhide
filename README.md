@@ -1,4 +1,4 @@
-Simple script to toggle hidden files in Mac OSX
+Simple script to toggle hidden files in the Finder in Mac OSX
 
 For best results:
 
